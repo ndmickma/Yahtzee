@@ -1,7 +1,5 @@
 /**
  *  This is one player actions and variables.
- *
- *  @author Mr Greenstein
 */
 
 public class YahtzeePlayer {
