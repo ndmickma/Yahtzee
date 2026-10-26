@@ -2,8 +2,6 @@
  *  This program defines the Dice class. A Dice is 6 sides by default, but can
  *  be overridden as n-sided. It keeps track of the number of rolls and
  *  the last roll value.
- *
- *  @author Mr Greenstein
  */
 
 public class Dice {
